@@ -1,0 +1,6 @@
+.cover_show{
+    background-color: rgba(0, 0, 0, 0.744);
+}
+.cover_hide{
+    opacity: 0;
+}

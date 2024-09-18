@@ -1,0 +1,8 @@
+.main{
+    background-color:hsla(263,89%,14%,1);
+background-image:
+radial-gradient(at 100% 0%, hsla(187,100%,10%,1) 0px, transparent 50%),
+radial-gradient(at 0% 50%, hsla(261,100%,21%,1) 0px, transparent 50%),
+radial-gradient(at 95% 25%, hsla(342,100%,0%,1) 0px, transparent 50%),
+radial-gradient(at 0% 100%, hsla(279,100%,23%,1) 0px, transparent 50%);
+}

@@ -1,0 +1,16 @@
+.flip_front {
+    transition: transform 0.6s;
+    transform: rotateY(0deg);
+
+}
+
+.flip_back {
+    transition: transform 0.6s;
+    transform: rotateY(360deg);
+
+}
+
+/* Add this class to prevent unwanted animation */
+.card {
+    perspective: 1000px; /* Add perspective to the card */
+}
